@@ -7,7 +7,7 @@ My Neovim config based on [LazyVim](https://github.com/LazyVim/LazyVim).
 Install the following requirements using your package manager:
 
 ```
-neovim git gh tree-sitter-cli gcc fzf ripgrep fd lazygit
+neovim git gh tree-sitter-cli gcc fzf ripgrep fd lazygit lazydocker
 ```
 
 Remove current nvim config files:
